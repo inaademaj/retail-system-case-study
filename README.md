@@ -123,6 +123,9 @@ Possible causes include:
 
 ---
 
+<img width="1536" height="1024" alt="ChatGPT Image Mar 5, 2026, 09_29_29 AM" src="https://github.com/user-attachments/assets/3d2de1ee-5116-45b0-ab78-072b0a298928" />
+
+
 ### 5. Product Search Latency
 
 **Observation**
